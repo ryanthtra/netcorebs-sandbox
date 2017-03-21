@@ -1,16 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3ED9F114-E347-46F8-84C5-26D9BFAFF90A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6682BF2F-D194-4F97-9522-1BE4A9A44441}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Chapter1", "src\Chapter1\Chapter1.xproj", "{6A3FE9CD-A01C-41A1-A887-49302DD80984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter1", "src\Chapter1\Chapter1.csproj", "{6A3FE9CD-A01C-41A1-A887-49302DD80984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
